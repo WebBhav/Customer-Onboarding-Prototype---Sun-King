@@ -1,0 +1,6 @@
+{
+  "name": "Sun King PAYG Onboarding & Asynchronous Verification System",
+  "description": "Enterprise Pay-As-You-Go solar customer registration and asynchronous verification platform for Sun King field agents and executive reviewers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
